@@ -1,0 +1,9 @@
+{
+  "short_name": "Song Detector",
+  "name": "Song Detector",
+  "icons": [],
+  "start_url": "index.html",
+  "background_color": "rgba(255,0,153,0.89)",
+  "theme_color": "rgb(255,2,245)",
+  "display": "fullscreen"
+}

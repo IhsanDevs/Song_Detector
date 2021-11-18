@@ -1,0 +1,7 @@
+{
+  "name": "Song Detector",
+  "description": "Scan data lagu dari file audio atau video",
+  "repository": "https://github.com/IhsanDevs/Song-Detector",
+  "logo": "assets/img/icon.png",
+  "keywords": ["Song Detector", "DB API"]
+}
